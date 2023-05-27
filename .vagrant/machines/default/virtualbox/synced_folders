@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"owner":"www-data","group":"www-data","guestpath":"/var/www/html","hostpath":"C:/Users/Zidan/Downloads/project_workshop","disabled":false,"__vagrantfile":true}}}
