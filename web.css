@@ -1,0 +1,13 @@
+
+    .header{
+        color:white;
+        background-color:rgb(0, 255, 81);
+        text-align:center;
+
+    }
+    .container{
+        color:black;
+        background-color:red;
+        text-align:center;
+        height:500px;
+    }
